@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func Hello() {
+func greeting() {
 	time := 14
 
 	if time <= 12 {
